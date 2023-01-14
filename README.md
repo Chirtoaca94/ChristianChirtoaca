@@ -15,6 +15,6 @@ Hi! I'm Christian. I enjoy using technical tools like SQL to manipulate, analyse
 
 Have any exciting opportunities or just want to reach out? Get me on LinkedIn! &#128071;
 
-<a href="https://www.linkedin.com/in/christian-chirtoaca/" target=" ">
+<a href="https://www.linkedin.com/in/christian-chirtoaca/"target="_blank">
   <img src="logo-hero.png">
 </a>

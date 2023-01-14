@@ -10,3 +10,7 @@ Hi! I'm Christian. I enjoy using technical tools like SQL to manipulate, analyse
 |     3| VS Code|
 |     4| PyCharm|
 
+<br>
+<br>
+<br>
+Have any exciting opportunities or just want to reach out? Get me on LinkedIn! &#128071;

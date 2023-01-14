@@ -17,4 +17,4 @@ Have any exciting opportunities or just want to reach out? Get me on LinkedIn! &
 
 <a href="https://www.linkedin.com/in/christian-chirtoaca/" target="_blank">
   <img src="logo-hero.png">
-</a>
+</a> 
